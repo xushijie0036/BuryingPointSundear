@@ -91,7 +91,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "BuryingPointSundear.framework/Headers/*" 
+  spec.source_files  = "BuryingPointSundear.framework/Headers/*.{h,m}" 
   #spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
@@ -120,7 +120,7 @@ Pod::Spec.new do |spec|
   # spec.framework  = "SomeFramework"
    spec.frameworks = "UIKit", "Foundation"
   # 因为是发布自己的framework，这句话很重要
-    spec.ios.vendored_frameworks = 'BuryingPointSundear.framework'
+  # spec.ios.vendored_frameworks = 'BuryingPointSundear.framework'
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
 
