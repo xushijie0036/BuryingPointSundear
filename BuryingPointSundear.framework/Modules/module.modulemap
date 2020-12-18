@@ -1,0 +1,4 @@
+framework module BuryingPointSundear {
+    header "BuryingPointSundear-Swift.h"
+    requires objc
+}
