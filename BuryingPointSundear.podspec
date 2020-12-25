@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "BuryingPointSundear"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "A short description of BuryingPoint SDK swift."
   spec.swift_versions = "4.2"
 

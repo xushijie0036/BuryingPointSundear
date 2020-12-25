@@ -259,15 +259,9 @@ SWIFT_CLASS("_TtC19BuryingPointSundear19BuryingPointSundear")
 /// 输入用户的手机号
 - (void)BuryingPointPhoneNumberWithPhoneNumber:(NSString * _Nonnull)phoneNumber;
 /// 进入界面
-/// entryIdaction :第一个操作界面 。如果没有，写当前界面名称
-/// exitIdaction:上个界面。 如果没有，写当前界面名称
-/// nowIdactionName:进入界面的名称
-- (void)BuryingPoinStartVisitIdactionWithEntryIdaction:(NSString * _Nonnull)entryIdaction exitIdaction:(NSString * _Nonnull)exitIdaction nowIdactionName:(NSString * _Nonnull)nowIdactionName;
+- (void)BuryingPoinStartVisitIdaction;
 /// 退出界面
-/// entryIdaction :第一个操作界面 。如果没有，写当前界面名称
-/// exitIdaction:上个界面。 如果没有，写当前界面名称
-/// nowIdactionName:退出界面的名称
-- (void)BuryingPoinEndVisitIdactionWithEntryIdaction:(NSString * _Nonnull)entryIdaction exitIdaction:(NSString * _Nonnull)exitIdaction nowIdactionName:(NSString * _Nonnull)nowIdactionName;
+- (void)BuryingPoinEndVisitIdaction;
 /// 跳转界面所使用的关键词与名称
 /// refererKeyword :跳转过来的后进来所使用的关键字
 /// refererName:跳转过来的名称
