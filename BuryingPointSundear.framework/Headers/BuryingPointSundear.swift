@@ -810,5 +810,5 @@ extension BuryingPointSundear {
 
 extension BuryingPointSundear {
     /// The version of the BuryingPoint SDKs  BuryingPoint SDKs的版本
-    @objc public static let sdkVersion = "0.0.2"
+    @objc public static let sdkVersion = "0.0.4"
 }

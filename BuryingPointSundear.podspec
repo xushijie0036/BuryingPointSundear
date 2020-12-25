@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "BuryingPointSundear"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   spec.summary      = "A short description of BuryingPoint SDK swift."
   spec.swift_versions = "4.2"
 
@@ -91,7 +91,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "BuryingPointSundear.framework/Headers/*.{h,m}" 
+  spec.source_files  = "BuryingPointSundear.framework/Headers/*.{h,m,swift}" 
   #spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
