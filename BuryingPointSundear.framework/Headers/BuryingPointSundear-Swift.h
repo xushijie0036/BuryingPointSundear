@@ -266,11 +266,12 @@ SWIFT_CLASS("_TtC19BuryingPointSundear19BuryingPointSundear")
 /// 退出界面
 /// entryIdaction :第一个操作界面 。如果没有，写当前界面名称
 /// exitIdaction:上个界面。 如果没有，写当前界面名称
-/// nowIdactionName:进入界面的名称
+/// nowIdactionName:退出界面的名称
 - (void)BuryingPoinEndVisitIdactionWithEntryIdaction:(NSString * _Nonnull)entryIdaction exitIdaction:(NSString * _Nonnull)exitIdaction nowIdactionName:(NSString * _Nonnull)nowIdactionName;
-/// 手势：滑动和缩小或者放大
-/// 左滑 0   右滑 1   上滑 2    下滑 3    左右滑4   上下滑 5  滑动 6    缩小 7    放大 8     缩放 9
-- (void)BuryingPoingestureWithGesture:(NSInteger)gesture;
+/// 跳转界面所使用的关键词与名称
+/// refererKeyword :跳转过来的后进来所使用的关键字
+/// refererName:跳转过来的名称
+- (void)BuryingPoinRefererKeywordAndNameWithRefererKeyword:(NSString * _Nonnull)refererKeyword refererName:(NSString * _Nonnull)refererName;
 - (void)obtainLocation;
 - (void)locationManager:(CLLocationManager * _Nonnull)manager didUpdateLocations:(NSArray<CLLocation *> * _Nonnull)locations;
 /// Manually start the dispatching process. You might want to call this method in AppDelegates <code>applicationDidEnterBackground</code> to transmit all data 手动启动调度过程。您可能想在appdelicates`applicationdifferbackground’中调用此方法来传输所有数据
@@ -302,10 +303,10 @@ SWIFT_CLASS("_TtC19BuryingPointSundear19BuryingPointSundear")
 @end
 
 
+
 @interface BuryingPointSundear (SWIFT_EXTENSION(BuryingPointSundear))
 - (void)copyFromOldSharedInstance;
 @end
-
 
 
 

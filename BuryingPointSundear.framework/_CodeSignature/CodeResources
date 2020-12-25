@@ -6,31 +6,27 @@
 	<dict>
 		<key>Headers/BuryingPointSundear-Swift.h</key>
 		<data>
-		IxvO4QkRq2YjTcnQ+lcYJmQ74vM=
-		</data>
-		<key>Headers/BuryingPointSundear.swift</key>
-		<data>
-		J1N8n7qGadq50t/EsYkY5ls6vpQ=
+		GUBN+UVre8+ZSor6b8Xj3TIJIiA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+osRjyLN+ja04AInNhHjqrP/YIY=
+		g4VoaTrGoAbisYCYGZTfe4XEMNQ=
 		</data>
 		<key>Modules/BuryingPointSundear.swiftmodule/arm.swiftdoc</key>
 		<data>
-		ZNQi+bnu5eekZpU6/MYINuv8H6I=
+		EZ/dwGHSVgFr2iKpzG+nPD+NBz4=
 		</data>
 		<key>Modules/BuryingPointSundear.swiftmodule/arm.swiftmodule</key>
 		<data>
-		v3AKfkl+HOnHewTHawx5R2rC2ms=
+		hzuGf7CbOaZPI/+eh9lC/L8lsNc=
 		</data>
 		<key>Modules/BuryingPointSundear.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		WINY8XBg56vp+g63sEqB7CLsz+Q=
+		G58xwsxbgVR8jwKxC5iuOWSiQ10=
 		</data>
 		<key>Modules/BuryingPointSundear.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		wl2y8lqdsqdrKM0lhTLRzL29ZGM=
+		TYv5eXNQlCPqOCLEL6uLyOyHKNE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,66 +39,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IxvO4QkRq2YjTcnQ+lcYJmQ74vM=
+			GUBN+UVre8+ZSor6b8Xj3TIJIiA=
 			</data>
 			<key>hash2</key>
 			<data>
-			oe8IpBMUul3r+UWffNbe2TkicDLKQ6CXa/yjXiIrjAg=
-			</data>
-		</dict>
-		<key>Headers/BuryingPointSundear.swift</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			J1N8n7qGadq50t/EsYkY5ls6vpQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			YfoOUJAPG5xyVZWqXU4M9Cz3R2DXnHkSdq9NS9bCvbc=
+			QZj7IiaYP0wsbOwAF1HMBmNScPnQFybSUrHpGiv/tBE=
 			</data>
 		</dict>
 		<key>Modules/BuryingPointSundear.swiftmodule/arm.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZNQi+bnu5eekZpU6/MYINuv8H6I=
+			EZ/dwGHSVgFr2iKpzG+nPD+NBz4=
 			</data>
 			<key>hash2</key>
 			<data>
-			+tnDB2P5DsY2cPwgleowS8Vm3x3Y9uDHp9BfT/wPv0g=
+			DIJjALOXGoZWjqtqA2c+yPxFA2dHJ1YdVt3eSOboQ3c=
 			</data>
 		</dict>
 		<key>Modules/BuryingPointSundear.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			v3AKfkl+HOnHewTHawx5R2rC2ms=
+			hzuGf7CbOaZPI/+eh9lC/L8lsNc=
 			</data>
 			<key>hash2</key>
 			<data>
-			QFYKePvAwfWhldcpNBh1mGJNLWmcEcIP+Go7c+b2qmk=
+			vua2ifU9F+o7AECjdAa5vkl5PJub7fSWjcVl3hOU1rw=
 			</data>
 		</dict>
 		<key>Modules/BuryingPointSundear.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WINY8XBg56vp+g63sEqB7CLsz+Q=
+			G58xwsxbgVR8jwKxC5iuOWSiQ10=
 			</data>
 			<key>hash2</key>
 			<data>
-			dkUdmMJ0YFu0QQUpsYaK2is2iknrjw9wVL4YT0AlTI4=
+			zUdqleSN+HqMUAQvuRlvpHi7/ztLYvWlSAD51WfcHQY=
 			</data>
 		</dict>
 		<key>Modules/BuryingPointSundear.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wl2y8lqdsqdrKM0lhTLRzL29ZGM=
+			TYv5eXNQlCPqOCLEL6uLyOyHKNE=
 			</data>
 			<key>hash2</key>
 			<data>
-			SISU8a6PgvVr0pfteQDahP8txh4PSSZtxwAnkgYco94=
+			d1sQWNfTo5dfXWTLJxDaNlnPG8Lhtyg77vy/4aiHwvw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
