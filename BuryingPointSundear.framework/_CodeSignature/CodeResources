@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/BuryingPointSundear.swiftmodule/arm.swiftmodule</key>
 		<data>
-		wWOuixoHsLawL9N+4RaGTcAUB3M=
+		MystMVJ+MHTz9h5rfBoBVSPDwJI=
 		</data>
 		<key>Modules/BuryingPointSundear.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/BuryingPointSundear.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		0uvFfS74TM1Vtn14gmTmjJ05DR8=
+		628Yk7YIf9G+p+0HNxbO2X7XAVE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -76,11 +76,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wWOuixoHsLawL9N+4RaGTcAUB3M=
+			MystMVJ+MHTz9h5rfBoBVSPDwJI=
 			</data>
 			<key>hash2</key>
 			<data>
-			+N782/KZ5cKKD2HOOwR7RZwMqobbBIXvWMjoJv7Lj7w=
+			xK5iWXllArmPpz+7XWEj0olg/zda5tujmHj9S1kmi3I=
 			</data>
 		</dict>
 		<key>Modules/BuryingPointSundear.swiftmodule/arm64.swiftdoc</key>
@@ -98,11 +98,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0uvFfS74TM1Vtn14gmTmjJ05DR8=
+			628Yk7YIf9G+p+0HNxbO2X7XAVE=
 			</data>
 			<key>hash2</key>
 			<data>
-			A3DuNkKKdU7p4Z4PWC7XNri/lsYRzn5WkNm6zwhi884=
+			1xBtup3+idD0sd8Y7DjZnnji6I8Pp/p3lwYt52Cal30=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
